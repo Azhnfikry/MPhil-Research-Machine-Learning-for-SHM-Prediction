@@ -1,0 +1,23 @@
+Feature,Selected_rf,Rank_rf,Score_rf,Selected_xgb,Rank_xgb,Score_xgb,Selected_svr,Rank_svr,Score_svr,Selected_ridge,Rank_ridge,Score_ridge,Num_Families_Selected
+X_Acc_Raw_PeakFreq1,True,1.0,0.230562,True,1.0,0.211388,True,1.0,0.033917,True,4.0,0.025156,4
+X_Acc_Raw_PeakFreq3,True,3.0,0.008953,True,5.0,0.009569,True,9.0,1.4e-05,True,9.0,0.006738,4
+Y_Acc_Raw_PeakFreq1,True,2.0,0.144959,True,2.0,0.129561,True,8.0,0.001553,True,2.0,0.077445,4
+X_Acc_Raw_Skew,True,9.0,0.001788,True,8.0,0.005021,False,,0.0,True,10.0,0.005265,3
+X_Acc_Raw_SpectralCentroid,True,7.0,0.004376,False,,0.0,True,4.0,0.005352,True,6.0,0.01194,3
+Y_Acc_Raw_Skew,True,4.0,0.004449,False,,0.0,True,5.0,0.005079,True,8.0,0.00519,3
+Wave_Steepness,True,8.0,-8.4e-05,False,,0.0,False,,0.0,True,7.0,0.012232,2
+Y_Acc_Raw_Kurtosis,True,10.0,-0.000318,True,4.0,0.009354,False,,0.0,False,,0.0,2
+Z_Acc_Raw_PeakFreq2,True,6.0,0.00231,True,3.0,0.004283,False,,0.0,False,,0.0,2
+Tz (s),False,,0.0,True,6.0,0.006851,False,,0.0,False,,0.0,1
+Wave_Filtered_CrestFactor,False,,0.0,True,7.0,0.002211,False,,0.0,False,,0.0,1
+Wave_Raw_RMS,False,,0.0,False,,0.0,False,,0.0,True,3.0,0.058524,1
+Wave_Raw_Skew,True,5.0,0.00198,False,,0.0,False,,0.0,False,,0.0,1
+Wave_Raw_Std,False,,0.0,False,,0.0,False,,0.0,True,1.0,0.138607,1
+X_Acc_Raw_CrestFactor,False,,0.0,False,,0.0,True,10.0,-0.000587,False,,0.0,1
+X_Acc_Raw_SpectralEntropy,False,,0.0,False,,0.0,False,,0.0,True,5.0,0.01943,1
+X_Displacement_Skew,False,,0.0,False,,0.0,True,7.0,0.000545,False,,0.0,1
+Y_Acc_Raw_PeakFreq2,False,,0.0,False,,0.0,True,3.0,0.006691,False,,0.0,1
+Y_Acc_Raw_PeakFreq3,False,,0.0,False,,0.0,True,6.0,0.001785,False,,0.0,1
+Z_Acc_Raw_PeakPower2,False,,0.0,False,,0.0,True,2.0,0.005742,False,,0.0,1
+Z_Acc_Raw_Skew,False,,0.0,True,10.0,0.00152,False,,0.0,False,,0.0,1
+Z_Acc_Raw_SpectralCentroid,False,,0.0,True,9.0,0.003231,False,,0.0,False,,0.0,1

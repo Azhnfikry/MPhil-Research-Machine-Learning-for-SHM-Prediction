@@ -1,0 +1,16 @@
+Feature,Selected_rf,Rank_rf,Score_rf,Selected_xgb,Rank_xgb,Score_xgb,Selected_svr,Rank_svr,Score_svr,Selected_ridge,Rank_ridge,Score_ridge,Num_Families_Selected
+Hs (m),True,4.0,0.039639,True,2.0,0.081047,True,8.0,0.004274,True,8.0,0.024424,4
+X Acc Filtered_Median,True,1.0,0.251876,True,1.0,0.188028,True,1.0,0.087685,True,1.0,0.176751,4
+X Displacement_Median,True,5.0,0.024799,True,6.0,0.027036,True,4.0,0.024642,True,6.0,0.037647,4
+Y Acc Filtered_Median,True,3.0,0.045515,True,3.0,0.03117,True,2.0,0.024029,True,4.0,0.049059,4
+Z Acc Raw_Max,True,7.0,0.018043,True,5.0,0.025502,True,10.0,0.001284,True,5.0,0.044958,4
+X Acc Filtered_Mean,True,6.0,0.015553,False,,0.0,True,3.0,0.013386,True,10.0,0.011365,3
+Y Acc Raw_Mean,True,9.0,0.009809,False,,0.0,True,5.0,0.013147,True,2.0,0.074092,3
+Z Acc Raw_Min,True,2.0,0.077277,True,4.0,0.042999,False,,0.0,True,7.0,0.032189,3
+Wave Raw_Std_Dev,False,,0.0,True,8.0,0.017483,False,,0.0,True,9.0,0.021493,2
+X Displacement_Mean,False,,0.0,True,9.0,0.013195,True,9.0,0.004446,False,,0.0,2
+X Velocity_Min,False,,0.0,True,7.0,0.023618,False,,0.0,True,3.0,0.054398,2
+Y Acc Filtered_Mean,True,10.0,0.008334,False,,0.0,True,7.0,0.00363,False,,0.0,2
+Tz (s),False,,0.0,True,10.0,0.016363,False,,0.0,False,,0.0,1
+Wave Frequency_Mean,True,8.0,0.01031,False,,0.0,False,,0.0,False,,0.0,1
+Wave Raw_Mean,False,,0.0,False,,0.0,True,6.0,0.0046,False,,0.0,1

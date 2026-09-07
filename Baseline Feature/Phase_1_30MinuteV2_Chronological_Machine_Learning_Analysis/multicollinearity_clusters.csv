@@ -1,0 +1,63 @@
+Cluster,Feature,Representative,Is_Representative
+1,X Displacement_Mean,X Displacement_Mean,True
+1,X Velocity_Mean,X Displacement_Mean,False
+1,X Velocity_Median,X Displacement_Mean,False
+2,X Velocity_Min,X Velocity_Min,True
+3,X Acc Filtered_Mean,X Acc Filtered_Mean,True
+4,X Velocity_Max,X Velocity_Max,True
+5,Y Displacement_Mean,Y Displacement_Mean,True
+5,Y Velocity_Mean,Y Displacement_Mean,False
+5,Y Velocity_Median,Y Displacement_Mean,False
+6,Y Acc Filtered_Mean,Y Acc Filtered_Mean,True
+7,Y Velocity_Min,Y Velocity_Min,True
+8,Y Velocity_Max,Y Velocity_Max,True
+9,Wave Raw_Std_Dev,Wave Raw_Std_Dev,True
+9,Wave Filtered_Min,Wave Raw_Std_Dev,False
+10,Wave Filtered_Std_Dev,Wave Filtered_Std_Dev,True
+10,Wave Raw_Max,Wave Filtered_Std_Dev,False
+10,Wave Filtered_Max,Wave Filtered_Std_Dev,False
+11,Wave Frequency_Mean,Wave Frequency_Mean,True
+11,Wave Frequency_Min,Wave Frequency_Mean,False
+11,Wave Frequency_Max,Wave Frequency_Mean,False
+11,Wave Frequency_Median,Wave Frequency_Mean,False
+12,Wave Raw_Mean,Wave Raw_Mean,True
+12,Wave Raw_Min,Wave Raw_Mean,False
+12,Wave Raw_Median,Wave Raw_Mean,False
+13,Wave Filtered_Mean,Wave Filtered_Mean,True
+14,Y Acc Filtered_Median,Y Acc Filtered_Median,True
+15,Y Displacement_Median,Y Displacement_Median,True
+16,X Acc Raw_Mean,X Acc Raw_Mean,True
+16,X Acc Raw_Median,X Acc Raw_Mean,False
+17,Y Acc Raw_Mean,Y Acc Raw_Mean,True
+17,Y Acc Raw_Median,Y Acc Raw_Mean,False
+17,Z Acc Raw_Mean,Y Acc Raw_Mean,False
+17,Z Acc Raw_Median,Y Acc Raw_Mean,False
+18,Z Acc Raw_Max,Z Acc Raw_Max,True
+19,X Acc Filtered_Median,X Acc Filtered_Median,True
+20,X Displacement_Median,X Displacement_Median,True
+21,Hs (m),Hs (m),True
+21,X Acc Raw_Min,Hs (m),False
+21,X Acc Raw_Max,Hs (m),False
+21,X Acc Raw_Std_Dev,Hs (m),False
+21,X Acc Filtered_Min,Hs (m),False
+21,X Acc Filtered_Max,Hs (m),False
+21,X Acc Filtered_Std_Dev,Hs (m),False
+21,Y Acc Raw_Min,Hs (m),False
+21,Y Acc Raw_Max,Hs (m),False
+21,Y Acc Raw_Std_Dev,Hs (m),False
+21,Y Acc Filtered_Min,Hs (m),False
+21,Y Acc Filtered_Max,Hs (m),False
+21,Y Acc Filtered_Std_Dev,Hs (m),False
+21,Z Acc Raw_Std_Dev,Hs (m),False
+21,X Displacement_Min,Hs (m),False
+21,X Displacement_Max,Hs (m),False
+21,X Displacement_Std_Dev,Hs (m),False
+21,Y Displacement_Min,Hs (m),False
+21,Y Displacement_Max,Hs (m),False
+21,Y Displacement_Std_Dev,Hs (m),False
+21,X Velocity_Std_Dev,Hs (m),False
+21,Y Velocity_Std_Dev,Hs (m),False
+22,Z Acc Raw_Min,Z Acc Raw_Min,True
+23,Tz (s),Tz (s),True
+24,Wave Filtered_Median,Wave Filtered_Median,True
+25,Wave Frequency_Std_Dev,Wave Frequency_Std_Dev,True

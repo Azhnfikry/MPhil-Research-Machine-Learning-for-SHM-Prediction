@@ -1,0 +1,9 @@
+Model,n_estimators,max_depth,min_samples_split,min_samples_leaf,max_features,learning_rate,subsample,colsample_bytree,min_child_weight,reg_alpha,reg_lambda,gamma,kernel,C,epsilon,degree,alpha,solver
+Random Forest (Tuned),712.0,12.0,4.0,2.0,0.8006802549611031,,,,,,,,,,,,,
+XGBoost (Tuned),877.0,2.0,,,,0.29795480718097084,0.9274341292276137,0.6404136320031355,2.0,0.00036547420677729035,0.03031008199628378,0.00028522884541937627,,,,,,
+SVR (Tuned),,,,,,,,,,,,scale,poly,386.9612257414268,0.1452824663751603,2.0,,
+Ridge (Tuned),,,,,,,,,,,,,,,,,548.0183737300538,svd
+Random Forest (baseline),400.0,,2.0,1.0,1.0,,,,,,,,,,,,,
+XGBoost (baseline),600.0,4.0,,,,0.05,0.9,0.9,,,,,,,,,,
+SVR (baseline),,,,,,,,,,,,scale,rbf,50.0,0.001,,,
+Ridge (baseline),,,,,,,,,,,,,,,,,1.0,auto

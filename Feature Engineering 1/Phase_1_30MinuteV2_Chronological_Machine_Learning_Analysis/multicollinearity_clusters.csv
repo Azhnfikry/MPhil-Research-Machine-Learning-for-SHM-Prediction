@@ -1,0 +1,106 @@
+Cluster,Feature,Representative,Is_Representative
+1,X_Displacement_Skew,X_Displacement_Skew,True
+2,X_Velocity_Skew,X_Velocity_Skew,True
+3,Wave_Raw_Skew,Wave_Raw_Skew,True
+3,Wave_Raw_Kurtosis,Wave_Raw_Skew,False
+3,Wave_Filtered_Kurtosis,Wave_Raw_Skew,False
+4,Wave_Filtered_CrestFactor,Wave_Filtered_CrestFactor,True
+5,Wave_Filtered_RMS,Wave_Filtered_RMS,True
+5,Wave_Raw_CrestFactor,Wave_Filtered_RMS,False
+5,Wave_Filtered_Std,Wave_Filtered_RMS,False
+6,Wave_Raw_RMS,Wave_Raw_RMS,True
+7,Wave_Raw_Std,Wave_Raw_Std,True
+8,Wave_Filtered_Skew,Wave_Filtered_Skew,True
+9,X_Acc_Raw_PeakFreq2,X_Acc_Raw_PeakFreq2,True
+9,X_Acc_Filtered_PeakFreq2,X_Acc_Raw_PeakFreq2,False
+10,Y_Acc_Raw_PeakFreq2,Y_Acc_Raw_PeakFreq2,True
+10,Y_Acc_Filtered_PeakFreq2,Y_Acc_Raw_PeakFreq2,False
+11,Z_Acc_Raw_PeakFreq1,Z_Acc_Raw_PeakFreq1,True
+12,Z_Acc_Raw_PeakFreq2,Z_Acc_Raw_PeakFreq2,True
+13,Z_Acc_Raw_RMS,Z_Acc_Raw_RMS,True
+14,X_Acc_Raw_PeakFreq3,X_Acc_Raw_PeakFreq3,True
+14,X_Acc_Filtered_PeakFreq3,X_Acc_Raw_PeakFreq3,False
+15,Y_Acc_Raw_PeakFreq3,Y_Acc_Raw_PeakFreq3,True
+15,Y_Acc_Filtered_PeakFreq3,Y_Acc_Raw_PeakFreq3,False
+16,Z_Acc_Raw_PeakFreq3,Z_Acc_Raw_PeakFreq3,True
+17,Y_Displacement_Kurtosis,Y_Displacement_Kurtosis,True
+17,Y_Displacement_CrestFactor,Y_Displacement_Kurtosis,False
+18,Y_Velocity_Kurtosis,Y_Velocity_Kurtosis,True
+19,Y_Velocity_CrestFactor,Y_Velocity_CrestFactor,True
+20,X_Displacement_Kurtosis,X_Displacement_Kurtosis,True
+20,X_Displacement_CrestFactor,X_Displacement_Kurtosis,False
+21,X_Velocity_RMS,X_Velocity_RMS,True
+22,X_Velocity_CrestFactor,X_Velocity_CrestFactor,True
+23,X_Acc_Raw_PeakPower2,X_Acc_Raw_PeakPower2,True
+23,X_Acc_Filtered_PeakPower2,X_Acc_Raw_PeakPower2,False
+24,X_Acc_Raw_Kurtosis,X_Acc_Raw_Kurtosis,True
+24,X_Acc_Filtered_Kurtosis,X_Acc_Raw_Kurtosis,False
+25,X_Velocity_Kurtosis,X_Velocity_Kurtosis,True
+26,X_Acc_Raw_PeakPower3,X_Acc_Raw_PeakPower3,True
+26,X_Acc_Filtered_PeakPower3,X_Acc_Raw_PeakPower3,False
+27,Y_Acc_Raw_PeakPower3,Y_Acc_Raw_PeakPower3,True
+27,Y_Acc_Filtered_PeakPower3,Y_Acc_Raw_PeakPower3,False
+28,Y_Acc_Raw_PeakPower2,Y_Acc_Raw_PeakPower2,True
+28,Y_Acc_Filtered_PeakPower2,Y_Acc_Raw_PeakPower2,False
+29,Hs (m),Hs (m),True
+29,X_Acc_Raw_PeakPower1,Hs (m),False
+29,X_Acc_Filtered_PeakPower1,Hs (m),False
+29,Y_Acc_Raw_PeakPower1,Hs (m),False
+29,Y_Acc_Filtered_PeakPower1,Hs (m),False
+29,Z_Acc_Raw_PeakPower1,Hs (m),False
+29,X_Acc_Raw_RMS,Hs (m),False
+29,X_Acc_Raw_Std,Hs (m),False
+29,X_Acc_Filtered_RMS,Hs (m),False
+29,X_Acc_Filtered_Std,Hs (m),False
+29,Y_Acc_Raw_RMS,Hs (m),False
+29,Y_Acc_Raw_Std,Hs (m),False
+29,Y_Acc_Filtered_RMS,Hs (m),False
+29,Y_Acc_Filtered_Std,Hs (m),False
+29,Z_Acc_Raw_Std,Hs (m),False
+29,Z_Acc_Raw_CrestFactor,Hs (m),False
+29,X_Displacement_RMS,Hs (m),False
+29,X_Displacement_Std,Hs (m),False
+29,Y_Displacement_RMS,Hs (m),False
+29,Y_Displacement_Std,Hs (m),False
+29,X_Velocity_Std,Hs (m),False
+29,Y_Velocity_Std,Hs (m),False
+29,Horizontal_Displacement_RMS,Hs (m),False
+29,Hydro_Interaction,Hs (m),False
+30,Z_Acc_Raw_PeakPower2,Z_Acc_Raw_PeakPower2,True
+30,Z_Acc_Raw_PeakPower3,Z_Acc_Raw_PeakPower2,False
+31,Wave_Steepness,Wave_Steepness,True
+32,Y_Velocity_RMS,Y_Velocity_RMS,True
+33,Tz (s),Tz (s),True
+34,Z_Acc_Raw_Kurtosis,Z_Acc_Raw_Kurtosis,True
+35,X_Acc_Raw_Skew,X_Acc_Raw_Skew,True
+35,X_Acc_Filtered_Skew,X_Acc_Raw_Skew,False
+36,X_Acc_Raw_SpectralCentroid,X_Acc_Raw_SpectralCentroid,True
+36,X_Acc_Filtered_SpectralCentroid,X_Acc_Raw_SpectralCentroid,False
+36,Y_Acc_Raw_SpectralCentroid,X_Acc_Raw_SpectralCentroid,False
+36,Y_Acc_Filtered_SpectralCentroid,X_Acc_Raw_SpectralCentroid,False
+37,X_Acc_Raw_PeakFreq1,X_Acc_Raw_PeakFreq1,True
+37,X_Acc_Filtered_PeakFreq1,X_Acc_Raw_PeakFreq1,False
+38,Y_Acc_Raw_PeakFreq1,Y_Acc_Raw_PeakFreq1,True
+38,Y_Acc_Filtered_PeakFreq1,Y_Acc_Raw_PeakFreq1,False
+39,Z_Acc_Raw_SpectralCentroid,Z_Acc_Raw_SpectralCentroid,True
+39,Z_Acc_Raw_SpectralBandwidth,Z_Acc_Raw_SpectralCentroid,False
+39,Z_Acc_Raw_SpectralEntropy,Z_Acc_Raw_SpectralCentroid,False
+40,X_Acc_Raw_SpectralEntropy,X_Acc_Raw_SpectralEntropy,True
+40,X_Acc_Filtered_SpectralEntropy,X_Acc_Raw_SpectralEntropy,False
+40,Y_Acc_Raw_SpectralEntropy,X_Acc_Raw_SpectralEntropy,False
+40,Y_Acc_Filtered_SpectralEntropy,X_Acc_Raw_SpectralEntropy,False
+41,X_Acc_Raw_SpectralBandwidth,X_Acc_Raw_SpectralBandwidth,True
+41,X_Acc_Filtered_SpectralBandwidth,X_Acc_Raw_SpectralBandwidth,False
+41,Y_Acc_Raw_SpectralBandwidth,X_Acc_Raw_SpectralBandwidth,False
+41,Y_Acc_Filtered_SpectralBandwidth,X_Acc_Raw_SpectralBandwidth,False
+42,Y_Acc_Raw_Kurtosis,Y_Acc_Raw_Kurtosis,True
+42,Y_Acc_Filtered_Kurtosis,Y_Acc_Raw_Kurtosis,False
+43,Y_Acc_Filtered_CrestFactor,Y_Acc_Filtered_CrestFactor,True
+44,Y_Acc_Raw_CrestFactor,Y_Acc_Raw_CrestFactor,True
+45,X_Acc_Raw_CrestFactor,X_Acc_Raw_CrestFactor,True
+46,X_Acc_Filtered_CrestFactor,X_Acc_Filtered_CrestFactor,True
+47,Y_Acc_Raw_Skew,Y_Acc_Raw_Skew,True
+47,Y_Acc_Filtered_Skew,Y_Acc_Raw_Skew,False
+48,Z_Acc_Raw_Skew,Z_Acc_Raw_Skew,True
+49,Y_Velocity_Skew,Y_Velocity_Skew,True
+50,Y_Displacement_Skew,Y_Displacement_Skew,True
